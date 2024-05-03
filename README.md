@@ -1,4 +1,3 @@
 # learn-shell
 
-Hello World 
-Hello World - 1
+List of Shell scripting topics that we learn.

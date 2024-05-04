@@ -13,3 +13,5 @@ inputs_function() {
 x=20
 print_hello
 echo y from function - $y
+
+inputs_function 123 456

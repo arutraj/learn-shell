@@ -16,3 +16,12 @@ echo x is $x
 ls
 echo exit status - $?
 
+# Exit status - 0-255
+# 0 - Success
+# 1-255 - Failure
+
+echo $0
+echo $1
+echo $2
+echo $*
+echo $#

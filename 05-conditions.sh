@@ -1,10 +1,10 @@
-a=10
+a=1
 
 if [ $a -gt 5 ]; then
   echo $a is greater than 5
 fi
 
-marks=80
+marks=8
 
 if [ $marks -gt 75 ]; then
   echo Pass - Distinction

@@ -14,3 +14,5 @@ else
   echo Fail / Second Class
 fi
 
+# Note: Always prefer to use variables in double quotes in conditions.
+
